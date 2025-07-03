@@ -1,0 +1,9 @@
+0 taper bajo
+1 taper medio
+2 low bajo
+3 low medio
+4 mulllet clasico
+5 modern mullet
+6 mohicano bajo
+7 mohicano medio
+8 mohicano alto
